@@ -1,4 +1,4 @@
-window.TwisonSavePath = "{{TwisonSavePath}}";
+window.TwisonSavePath = "/";
 window.storyFormat({
   "name": "regw-Twison",
   "version": "0.0.1",
